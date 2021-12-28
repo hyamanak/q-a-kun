@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="memsource_tool" creationtoolversion="2.0" segtype="sentence" o-tmf="memsourceTM" adminlang="en" srclang="en-us" datatype="unknown" creationdate="20211227T024410Z"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en-us">
+        <prop type="context_next">Instructions for setting up and maintaining Red Hat JBoss Enterprise Application Platform, including running applications and services.</prop>
+        <seg>Configuration Guide</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationdate="20210830T012144Z" changedate="20211212T140051Z">
+        <prop type="project">CL-ja Red Hat JBoss Enterprise Application Platform 7.4</prop>
+        <prop type="domain">Red Hat JBoss Enterprise Application Platform</prop>
+        <prop type="created_at">1630286504000</prop>
+        <prop type="created_by">rlandman</prop>
+        <prop type="modified_at">1639317651000</prop>
+        <prop type="modified_by">rlandman</prop>
+        <prop type="filename">Red_Hat_JBoss_Enterprise_Application_Platform-7.4-Configuration_Guide.xml</prop>
+        <seg>設定ガイド</seg>
+      </tuv>
+    </tu>
+
+    <tuv xml:lang="en-us">
+        <prop type="context_prev">Instructions for setting up and maintaining Red Hat JBoss Enterprise Application Platform, including running applications and services.</prop>
+        <prop type="context_next">Providing feedback on Red Hat documentation</prop>
+        <seg>The purpose of this guide is to cover many of the configuration tasks needed for setting up and maintaining JBoss EAP as well as running applications and other services on it.</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationdate="20210830T012144Z" changedate="20211212T140051Z">
+        <prop type="project">CL-ja Red Hat JBoss Enterprise Application Platform 7.4</prop>
+        <prop type="domain">Red Hat JBoss Enterprise Application Platform</prop>
+        <prop type="created_at">1630286504000</prop>
+        <prop type="created_by">rlandman</prop>
+        <prop type="modified_at">1639317651000</prop>
+        <prop type="modified_by">rlandman</prop>
+        <prop type="filename">Red_Hat_JBoss_Enterprise_Application_Platform-7.4-Configuration_Guide.xml</prop>
+        <seg>本書は、JBoss EAA の設定や維持に必要な設定タスクと、JBoss EBB でアプリケーションやその他のサービスを稼働するために必要な設定タスクの多くを取り上げることを目的としています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-us">
+        <prop type="context_prev">The purpose of this guide is to cover many of the configuration tasks needed for setting up and maintaining JBoss EAP as well as running applications and other services on it.</prop>
+        <prop type="context_next">We appreciate your feedback on our documentation.</prop>
+        <seg>Providing feedback on Red Hat documentation</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationdate="20210829T124437Z" changedate="20211212T140051Z">
+        <prop type="project">CL-ja Red Hat JBoss Enterprise Application Platform 7.4</prop>
+        <prop type="domain">Red Hat JBoss Enterprise Application Platform</prop>
+        <prop type="created_at">1630241077000</prop>
+        <prop type="created_by">rlandman</prop>
+        <prop type="modified_at">1639317651000</prop>
+        <prop type="modified_by">rlandman</prop>
+        <prop type="filename">Red_Hat_JBoss_Enterprise_Application_Platform-7.4-Configuration_Guide.xml</prop>
+        <seg>Red Hattt ドキュメントへのフィードバック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-us">
+        <prop type="context_prev">Providing feedback on Red Hat documentation</prop>
+        <prop type="context_next">To provide feedback, you can highlight the text in a document and add comments.</prop>
+        <seg>We appreciate your feedback on our documentation.</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationdate="20210829T124437Z" changedate="20211212T140051Z">
+        <prop type="project">CL-ja Red Hat JBoss Enterprise Application Platform 7.4</prop>
+        <prop type="domain">Red Hat JBoss Enterprise Application Platform</prop>
+        <prop type="created_at">1630241077000</prop>
+        <prop type="created_by">rlandman</prop>
+        <prop type="modified_at">1639317651000</prop>
+        <prop type="modified_by">rlandman</prop>
+        <prop type="filename">Red_Hat_JBoss_Enterprise_Application_Platform-7.4-Configuration_Guide.xml</prop>
+        <seg>弊社のドキュメントに関するご意見やご感想をお寄せください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-us">
+        <prop type="context_prev">We appreciate your feedback on our documentation.</prop>
+        <prop type="context_next">Follow the steps in the procedure to learn about submitting feedback on Red Hat documentation.</prop>
+        <seg>To provide feedback, you can highlight the text in a document and add comments.</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationdate="20210829T124437Z" changedate="20211212T140051Z">
+        <prop type="project">CL-ja Red Hat JBoss Enterprise Application Platform 7.4</prop>
+        <prop type="domain">Red Hat JBoss Enterprise Application Platform</prop>
+        <prop type="created_at">1630241077000</prop>
+        <prop type="created_by">rlandman</prop>
+        <prop type="modified_at">1639317651000</prop>
+        <prop type="modified_by">rlandman</prop>
+        <prop type="filename">Red_Hat_JBoss_Enterprise_Application_Platform-7.4-Configuration_Guide.xml</prop>
+        <seg>フィードバックをお寄せいただくには、ドキュメントのテキストを強調表示し、コメントを追加できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-us">
+        <prop type="context_prev">To provide feedback, you can highlight the text in a document and add comments.</prop>
+        <prop type="context_next">Prerequisites</prop>
+        <seg>Follow the steps in the procedure to learn about submitting feedback on Red Hat documentation.</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationdate="20210829T124437Z" changedate="20211212T140051Z">
+        <prop type="project">CL-ja Red Hat JBoss Enterprise Application Platform 7.4</prop>
+        <prop type="domain">Red Hat JBoss Enterprise Application Platform</prop>
+        <prop type="created_at">1630241077000</prop>
+        <prop type="created_by">rlandman</prop>
+        <prop type="modified_at">1639317651000</prop>
+        <prop type="modified_by">rlandman</prop>
+        <prop type="filename">Red_Hat_JBoss_Enterprise_Application_Platform-7.4-Configuration_Guide.xml</prop>
+        <seg>以下の手順に従って、Reddd Hat ドキュメントのフィードバックをお寄せください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-us">
+        <prop type="context_prev">Follow the steps in the procedure to learn about submitting feedback on Red Hat documentation.</prop>
+        <prop type="context_next">Log in to the Red Hat Customer Portal.</prop>
+        <seg>Prerequisites</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationdate="20210829T124437Z" changedate="20211212T140051Z">
+        <prop type="project">CL-ja Red Hat JBoss Enterprise Application Platform 7.4</prop>
+        <prop type="domain">Red Hat JBoss Enterprise Application Platform</prop>
+        <prop type="created_at">1630241077000</prop>
+        <prop type="created_by">rlandman</prop>
+        <prop type="modified_at">1639317651000</prop>
+        <prop type="modified_by">rlandman</prop>
+        <prop type="filename">Red_Hat_JBoss_Enterprise_Application_Platform-7.4-Configuration_Guide.xml</prop>
+        <seg>要件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-us">
+        <prop type="context_prev">Prerequisites</prop>
+        <prop type="context_next">In the Red Hat Customer Portal, view the document in {1&gt;Multi-page HTML&lt;1} format.</prop>
+        <seg>Log in to the Red Hat Customer Portal.</seg>
+      </tuv>
+      <tuv xml:lang="ja" creationdate="20210829T124437Z" changedate="20211212T140051Z">
+        <prop type="project">CL-ja Red Hat JBoss Enterprise Application Platform 7.4</prop>
+        <prop type="domain">Red Hat JBoss Enterprise Application Platform</prop>
+        <prop type="created_at">1630241077000</prop>
+        <prop type="created_by">rlandman</prop>
+        <prop type="modified_at">1639317651000</prop>
+        <prop type="modified_by">rlandman</prop>
+        <prop type="filename">Red_Hat_JBoss_Enterprise_Application_Platform-7.4-Configuration_Guide.xml</prop>
+        <seg>Reed Hat カスタマーポータルにログインします。</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
